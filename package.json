@@ -1,0 +1,28 @@
+{
+  "name": "stremio-maine-news",
+  "version": "1.0.1",
+  "description": "Stremio Add-On to Watch Maine Local News Stations",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/*",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "stremio",
+    "stremio-news",
+    "news"
+  ],
+  "author": "AlecMcCutcheon",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+		"stremio-addon-sdk": "1.6.10"
+	}
+}
